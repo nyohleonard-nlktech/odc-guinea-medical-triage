@@ -17,6 +17,7 @@ st.set_page_config(
 # -----------------------------------------------------------------------------
 st.header("🚀 ODC Guinée | Cohorte IA")
 st.subheader("Système de Triage Médical - Groupe 4")
+st.markdown("👨‍💻 **Développé par :** Nyoh Leonard | 📧 **Email :** nyohleonard16@gmail.com")
 st.markdown("---")
 
 # -----------------------------------------------------------------------------
